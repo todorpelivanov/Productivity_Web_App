@@ -1,0 +1,15 @@
+
+#offerId {
+    background-color: aquamarine;
+    /* display: none; */
+    position: sticky;
+    bottom: 0;
+    /* float: top; */
+    font-size: 22px;
+    z-index: 1111111;
+    color: black;
+    border: 1px solid black;
+    border-radius: 3px;
+    width: 100%;
+    height: 40px;
+}
